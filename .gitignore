@@ -1,0 +1,14 @@
+.env
+.venv/
+
+# Generated local handbook (not part of the project source)
+docs/opspilot-ai-handbook.pdf
+docs/opspilot-ai-handbook.html
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+*.db
